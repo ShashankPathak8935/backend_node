@@ -31,3 +31,11 @@
 // npm uninstall package name --save-dev  --> package ko dev dependency se uninstall krta h
 // npm i -D nodemon  --> nodemon ko dev dependency ke roop me install krta h
 
+// ls --> se us folder ke sare files and folders dikhate hain
+// mkdir folder name --> isse new folder create krte hain
+
+// prettier --> is dev dependency se code ko format krta h
+// eslint --> is dev dependency se code me errors aur warnings ko check krta h
+// prettier--> for code formatting isi file me sara define kr dete hain kis type ka formate rhega code ka
+// prettierignore --> kis kis file ko ignore krna hai is file me define krte hain
+ 
